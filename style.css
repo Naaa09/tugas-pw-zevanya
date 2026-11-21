@@ -1098,38 +1098,26 @@ img {
     }
 }
 
-/* PERBAIKAN UKURAN SIDEBAR */
-@media (max-width: 680px) {
-    .page-grid {
-        grid-template-columns: 120px minmax(0, 1fr) !important;
-        gap: 10px !important;
-    }
-
-    .page-grid > .quick-panel {
-        width: 100% !important;
-        min-width: 0 !important;
-        padding: 16px 11px !important;
-        display: block !important;
-    }
-
-    .page-grid > .quick-panel h2 {
-        font-size: 14px !important;
-    }
-
-    .page-grid > .quick-panel a {
-        font-size: 11px !important;
-        line-height: 1.5;
-    }
-
-    .page-grid > .main-panel,
-    .page-grid > .news-panel {
-        min-width: 0 !important;
-    }
+/* SIDEBAR HIJAU MEMANJANG KE BAWAH */
+.page-grid {
+    align-items: stretch !important;
 }
 
-/* HP dengan layar sangat kecil */
-@media (max-width: 360px) {
+.quick-panel {
+    height: 100% !important;
+    min-height: 100% !important;
+    align-self: stretch !important;
+}
+
+/* Tampilan HP dan tablet */
+@media (max-width: 1000px) {
     .page-grid {
-        grid-template-columns: 100px minmax(0, 1fr) !important;
+        align-items: stretch !important;
+    }
+
+    .quick-panel {
+        height: 100% !important;
+        min-height: 100% !important;
+        align-self: stretch !important;
     }
 }
