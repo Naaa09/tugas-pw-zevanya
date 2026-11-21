@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apa itu SMK Negeri 9 Medan?",
+    "jawaban": "SMK Negeri 9 Medan adalah salah satu Sekolah Menengah Kejuruan Negeri yang berada di Kota Medan, Sumatera Utara. Sekolah ini menyelenggarakan pendidikan kejuruan untuk membekali siswa dengan pengetahuan dan keterampilan."
+  },
+  {
+    "id": 2,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Di mana lokasi SMK Negeri 9 Medan?",
+    "jawaban": "SMK Negeri 9 Medan berlokasi di Jl. Patriot No. 20 A Kota Medan, Provinsi Sumatera Utara."
+  },
+  {
+    "id": 3,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apa visi SMK Negeri 9 Medan?",
+    "jawaban": "Visi sekolah dapat dilihat melalui halaman profil sekolah. Silakan kunjungi menu Profil untuk mengetahui visi resmi SMK Negeri 9 Medan."
+  },
+  {
+    "id": 4,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apa misi sekolah?",
+    "jawaban": "Misi sekolah merupakan langkah untuk mewujudkan visi pendidikan dan membentuk lulusan yang kompeten, berkarakter, serta siap menghadapi dunia kerja. Untuk rumusan resmi, silakan lihat halaman profil sekolah."
+  },
+  {
+    "id": 5,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apakah SMK Negeri 9 Medan sekolah negeri?",
+    "jawaban": "Ya, SMK Negeri 9 Medan merupakan sekolah menengah kejuruan berstatus negeri."
+  },
+  {
+    "id": 6,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Kapan SMK Negeri 9 Medan didirikan?",
+    "jawaban": "Informasi tahun pendirian dapat dilihat pada bagian sejarah sekolah atau profil resmi SMK Negeri 9 Medan."
+  },
+  {
+    "id": 7,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Siapa kepala sekolah SMK Negeri 9 Medan?",
+    "jawaban": "Untuk mengetahui nama kepala sekolah yang menjabat saat ini, silakan melihat informasi terbaru pada profil resmi sekolah."
+  },
+  {
+    "id": 8,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apa akreditasi sekolah?",
+    "jawaban": "Informasi akreditasi terbaru dapat dilihat melalui dokumen akreditasi atau profil resmi sekolah."
+  },
+  {
+    "id": 9,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Bagaimana cara menghubungi sekolah?",
+    "jawaban": "Anda dapat menghubungi pihak sekolah melalui kontak resmi yang tersedia pada halaman Kontak website SMK Negeri 9 Medan."
+  },
+  {
+    "id": 10,
+    "kategori": "Profil dan informasi umum sekolah",
+    "pertanyaan": "Apa jam operasional sekolah?",
+    "jawaban": "Jam operasional mengikuti jadwal kegiatan sekolah. Untuk informasi jam pelayanan administrasi, silakan menghubungi tata usaha sekolah."
+  },
+  {
+    "id": 11,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apa saja jurusan di SMK Negeri 9 Medan?",
+    "jawaban": "SMK Negeri 9 Medan memiliki program keahlian yang dapat dipilih oleh calon siswa. Untuk mengetahui daftar jurusan yang tersedia, silakan lihat menu Program Keahlian."
+  },
+  {
+    "id": 12,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apa itu jurusan di SMK?",
+    "jawaban": "Jurusan merupakan bidang keahlian yang dipelajari siswa selama menempuh pendidikan di SMK sesuai minat dan kompetensi yang ingin dikuasai."
+  },
+  {
+    "id": 13,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Bagaimana cara memilih jurusan?",
+    "jawaban": "Pilihlah jurusan sesuai minat, bakat, dan cita-cita Anda. Sebaiknya pelajari terlebih dahulu materi serta peluang kerja dari masing-masing jurusan."
+  },
+  {
+    "id": 14,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apakah setiap jurusan memiliki praktik?",
+    "jawaban": "Ya, pendidikan SMK menggabungkan pembelajaran teori dan praktik untuk meningkatkan keterampilan siswa sesuai bidang keahliannya."
+  },
+  {
+    "id": 15,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apakah ada kegiatan praktik kerja lapangan?",
+    "jawaban": "Praktik Kerja Lapangan (PKL) merupakan bagian dari pembelajaran pendidikan kejuruan. Pelaksanaannya mengikuti ketentuan program keahlian dan sekolah."
+  },
+  {
+    "id": 16,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apa manfaat masuk SMK?",
+    "jawaban": "Siswa memperoleh pengetahuan dan keterampilan sesuai bidang keahlian sehingga dapat mempersiapkan diri untuk bekerja maupun melanjutkan pendidikan."
+  },
+  {
+    "id": 17,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apakah lulusan SMK bisa kuliah?",
+    "jawaban": "Tentu saja. Lulusan SMK dapat melanjutkan pendidikan ke perguruan tinggi sesuai persyaratan program studi yang dipilih."
+  },
+  {
+    "id": 18,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apakah lulusan SMK bisa langsung bekerja?",
+    "jawaban": "Bisa. Lulusan SMK dibekali kompetensi kejuruan sebagai salah satu bekal untuk memasuki dunia kerja."
+  },
+  {
+    "id": 19,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Apakah jurusan menentukan pekerjaan?",
+    "jawaban": "Jurusan membantu membentuk kompetensi awal siswa, tetapi pilihan pekerjaan tetap bergantung pada keterampilan, pengalaman, dan kesempatan kerja."
+  },
+  {
+    "id": 20,
+    "kategori": "Jurusan dan program keahlian",
+    "pertanyaan": "Bagaimana mengetahui keunggulan jurusan?",
+    "jawaban": "Anda dapat membaca deskripsi setiap program keahlian atau berkonsultasi dengan guru dan pihak sekolah."
+  },
+  {
+    "id": 21,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Bagaimana cara masuk SMK Negeri 9 Medan?",
+    "jawaban": "Calon siswa dapat mengikuti proses Seleksi Penerimaan Murid Baru (SPMB) sesuai jadwal dan ketentuan yang ditetapkan pemerintah daerah."
+  },
+  {
+    "id": 22,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Kapan pendaftaran siswa baru dibuka?",
+    "jawaban": "Jadwal pendaftaran berubah setiap tahun. Silakan pantau pengumuman resmi SMK Negeri 9 Medan dan Dinas Pendidikan Sumatera Utara."
+  },
+  {
+    "id": 23,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apa saja persyaratan masuk SMK Negeri 9 Medan?",
+    "jawaban": "Persyaratan umumnya meliputi ijazah atau surat keterangan lulus, kartu keluarga, akta kelahiran, dan dokumen lain sesuai ketentuan SPMB tahun berjalan."
+  },
+  {
+    "id": 24,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah pendaftaran dilakukan secara online?",
+    "jawaban": "Mekanisme pendaftaran mengikuti kebijakan SPMB yang berlaku. Informasi mengenai pendaftaran online dapat diperoleh melalui pengumuman resmi."
+  },
+  {
+    "id": 25,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah lulusan SMP bisa mendaftar?",
+    "jawaban": "Ya, lulusan SMP atau sederajat dapat mendaftar selama memenuhi persyaratan yang ditentukan."
+  },
+  {
+    "id": 26,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah siswa dari luar Medan boleh mendaftar?",
+    "jawaban": "Calon siswa dari luar Kota Medan dapat mengikuti seleksi selama memenuhi ketentuan domisili dan jalur penerimaan yang berlaku."
+  },
+  {
+    "id": 27,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah ada tes masuk?",
+    "jawaban": "Seleksi dapat mencakup persyaratan dan tahapan tertentu sesuai kebijakan SPMB tahun berjalan. Silakan periksa petunjuk teknis penerimaan."
+  },
+  {
+    "id": 28,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Bagaimana cara mengetahui hasil seleksi?",
+    "jawaban": "Hasil seleksi dapat diperiksa melalui portal resmi SPMB atau media pengumuman yang diinformasikan oleh sekolah."
+  },
+  {
+    "id": 29,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah bisa memilih lebih dari satu jurusan?",
+    "jawaban": "Pilihan program keahlian mengikuti ketentuan pendaftaran tahun berjalan. Silakan periksa petunjuk pemilihan jurusan saat pendaftaran."
+  },
+  {
+    "id": 30,
+    "kategori": "Pendaftaran peserta didik baru (SPMB)",
+    "pertanyaan": "Apakah siswa yang tidak lolos bisa mendaftar kembali?",
+    "jawaban": "Kesempatan mengikuti seleksi berikutnya bergantung pada jadwal, kuota, dan ketentuan resmi SPMB."
+  },
+  {
+    "id": 31,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah SMK Negeri 9 Medan gratis?",
+    "jawaban": "Sebagai sekolah negeri, pembiayaan pendidikan mengikuti kebijakan pemerintah. Untuk informasi mengenai kebutuhan biaya lainnya, silakan menghubungi pihak sekolah."
+  },
+  {
+    "id": 32,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah ada biaya pendaftaran?",
+    "jawaban": "Ketentuan biaya pendaftaran mengikuti aturan resmi SPMB tahun berjalan. Silakan periksa pengumuman penerimaan siswa baru."
+  },
+  {
+    "id": 33,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah siswa harus membeli seragam?",
+    "jawaban": "Siswa perlu memenuhi ketentuan seragam sekolah. Informasi jenis dan kebutuhan seragam dapat ditanyakan kepada pihak sekolah."
+  },
+  {
+    "id": 34,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah tersedia beasiswa?",
+    "jawaban": "Informasi beasiswa mengikuti program bantuan pendidikan yang tersedia dan persyaratan dari masing-masing program."
+  },
+  {
+    "id": 35,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah siswa bisa mendapatkan bantuan PIP?",
+    "jawaban": "Siswa yang memenuhi persyaratan dapat berkesempatan memperoleh Program Indonesia Pintar (PIP) sesuai ketentuan pemerintah."
+  },
+  {
+    "id": 36,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Bagaimana cara mendapatkan KIP?",
+    "jawaban": "Silakan mengikuti prosedur dan persyaratan program Kartu Indonesia Pintar melalui instansi terkait atau pihak sekolah."
+  },
+  {
+    "id": 37,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah ada biaya praktik?",
+    "jawaban": "Ketentuan pembiayaan kegiatan praktik mengikuti kebijakan sekolah dan peraturan yang berlaku. Silakan konfirmasi kepada pihak sekolah."
+  },
+  {
+    "id": 38,
+    "kategori": "Biaya pendidikan dan beasiswa",
+    "pertanyaan": "Apakah ada bantuan untuk siswa kurang mampu?",
+    "jawaban": "Terdapat program bantuan pendidikan pemerintah bagi siswa yang memenuhi kriteria. Informasi lebih lanjut dapat diperoleh melalui bagian kesiswaan."
+  },
+  {
+    "id": 39,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apa saja fasilitas SMK Negeri 9 Medan?",
+    "jawaban": "Fasilitas sekolah mendukung kegiatan pembelajaran teori dan praktik. Untuk daftar fasilitas lengkap, silakan lihat halaman Fasilitas Sekolah."
+  },
+  {
+    "id": 40,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah tersedia perpustakaan?",
+    "jawaban": "Informasi mengenai fasilitas perpustakaan dan jam pelayanannya dapat diperoleh melalui pihak sekolah."
+  },
+  {
+    "id": 41,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah tersedia laboratorium komputer?",
+    "jawaban": "Silakan melihat informasi fasilitas sekolah untuk mengetahui ketersediaan dan penggunaan laboratorium komputer."
+  },
+  {
+    "id": 42,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah sekolah memiliki ruang praktik?",
+    "jawaban": "Pendidikan SMK memerlukan sarana praktik sesuai bidang keahlian. Informasi ruang praktik dapat dilihat pada halaman program keahlian."
+  },
+  {
+    "id": 43,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah terdapat lapangan olahraga?",
+    "jawaban": "Untuk mengetahui fasilitas olahraga yang tersedia, silakan periksa halaman fasilitas sekolah."
+  },
+  {
+    "id": 44,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah sekolah memiliki kantin?",
+    "jawaban": "Informasi mengenai fasilitas kantin dapat ditanyakan kepada pihak sekolah."
+  },
+  {
+    "id": 45,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah tersedia Wi-Fi?",
+    "jawaban": "Ketersediaan akses internet untuk kegiatan pembelajaran dapat dikonfirmasi kepada pihak sekolah."
+  },
+  {
+    "id": 46,
+    "kategori": "Fasilitas sekolah",
+    "pertanyaan": "Apakah fasilitas sekolah boleh digunakan siswa?",
+    "jawaban": "Fasilitas sekolah dapat digunakan sesuai aturan, jadwal, dan izin dari pihak yang bertanggung jawab."
+  },
+  {
+    "id": 47,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Bagaimana sistem pembelajaran di SMK Negeri 9 Medan?",
+    "jawaban": "Pembelajaran dilaksanakan melalui kegiatan teori dan praktik sesuai kurikulum serta program keahlian masing-masing."
+  },
+  {
+    "id": 48,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Kurikulum apa yang digunakan?",
+    "jawaban": "Kurikulum yang digunakan mengikuti kebijakan kurikulum pendidikan nasional dan ketentuan yang berlaku di sekolah."
+  },
+  {
+    "id": 49,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Apa saja ekstrakurikuler yang tersedia?",
+    "jawaban": "Kegiatan ekstrakurikuler dapat membantu mengembangkan minat, bakat, dan kreativitas siswa. Daftar kegiatan dapat ditanyakan kepada bagian kesiswaan."
+  },
+  {
+    "id": 50,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Apakah ada kegiatan OSIS?",
+    "jawaban": "OSIS merupakan organisasi siswa yang menjadi wadah pengembangan kepemimpinan dan partisipasi siswa. Informasi kepengurusan dapat diperoleh melalui bagian kesiswaan."
+  },
+  {
+    "id": 51,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Apakah sekolah mengikuti perlombaan?",
+    "jawaban": "Siswa dapat mengikuti berbagai perlombaan sesuai bidang dan kesempatan yang tersedia, baik akademik maupun nonakademik."
+  },
+  {
+    "id": 52,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Apakah ada kegiatan upacara bendera?",
+    "jawaban": "Kegiatan upacara dilaksanakan sesuai jadwal dan ketentuan sekolah."
+  },
+  {
+    "id": 53,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Apakah sekolah mengadakan kegiatan peringatan hari besar?",
+    "jawaban": "Sekolah dapat menyelenggarakan kegiatan untuk memperingati hari besar nasional maupun kegiatan pendidikan lainnya sesuai agenda sekolah."
+  },
+  {
+    "id": 54,
+    "kategori": "Kegiatan akademik dan ekstrakurikuler",
+    "pertanyaan": "Bagaimana cara bergabung dengan ekstrakurikuler?",
+    "jawaban": "Silakan menghubungi pembina ekstrakurikuler atau bagian kesiswaan untuk mengetahui jadwal dan prosedur pendaftaran."
+  },
+  {
+    "id": 55,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apa itu PKL?",
+    "jawaban": "PKL atau Praktik Kerja Lapangan merupakan kegiatan pembelajaran yang memberikan pengalaman langsung kepada siswa di lingkungan dunia kerja."
+  },
+  {
+    "id": 56,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Kapan siswa melaksanakan PKL?",
+    "jawaban": "Jadwal PKL ditentukan oleh sekolah berdasarkan program keahlian dan kalender akademik."
+  },
+  {
+    "id": 57,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah sekolah mencarikan tempat PKL?",
+    "jawaban": "Penempatan PKL mengikuti mekanisme yang ditetapkan sekolah dan kerja sama dengan mitra industri."
+  },
+  {
+    "id": 58,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah PKL wajib diikuti?",
+    "jawaban": "PKL merupakan bagian dari pembelajaran pendidikan kejuruan sesuai struktur kurikulum dan ketentuan sekolah."
+  },
+  {
+    "id": 59,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah siswa mendapatkan nilai dari PKL?",
+    "jawaban": "Ya, kegiatan PKL dapat menjadi bagian dari penilaian kompetensi siswa berdasarkan ketentuan sekolah dan pembimbing."
+  },
+  {
+    "id": 60,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah lulusan SMK Negeri 9 Medan bisa bekerja di perusahaan?",
+    "jawaban": "Lulusan memiliki bekal kompetensi kejuruan yang dapat digunakan untuk melamar pekerjaan sesuai kualifikasi perusahaan."
+  },
+  {
+    "id": 61,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah tersedia bursa kerja khusus (BKK)?",
+    "jawaban": "Untuk mengetahui ketersediaan layanan BKK dan informasi lowongan kerja, silakan menghubungi bagian hubungan industri atau pihak sekolah."
+  },
+  {
+    "id": 62,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah sekolah memiliki kerja sama dengan industri?",
+    "jawaban": "Kerja sama industri dapat mendukung kegiatan PKL, pembelajaran, dan pengembangan kompetensi siswa. Informasi mitra resmi dapat ditanyakan kepada sekolah."
+  },
+  {
+    "id": 63,
+    "kategori": "PKL, dunia kerja, dan alumni",
+    "pertanyaan": "Apakah alumni bisa mendapatkan informasi pekerjaan?",
+    "jawaban": "Alumni dapat menanyakan informasi lowongan dan kegiatan alumni melalui saluran komunikasi resmi sekolah jika tersedia."
+  },
+{
+  "id": 64,
+  "kategori": "Guru, administrasi, dan pelayanan sekolah",
+  "pertanyaan": "Siapa gurunya?",
+  "jawaban": "Berikut daftar nama guru SMK Negeri 9 Medan:\n\n1. Sulastri Silalahi, S.Pd — Bahasa Indonesia\n2. Annisah Nur Panggabean, S.Pd — Bahasa Inggris\n3. Mudriqah Fadhilah Siregar, S.Pd — Matematika\n4. Mukhyaruddin Hasibuan, S.Pd.I — Agama Islam\n5. Ursula Eka Oktoria Purba, S.Ag — Agama Katholik\n6. Herbet Helvi Roberto Bakkara, S.Kom — MP, PKK\n7. Novelman Manurung, S.T — MK\n8. M. Sofa Ananda, S.Sos, M.Pd — PP\n9. Kharisma Dani, S.Pd — Bahasa Indonesia\n10. Defi Maliani S. Hrp, S.Pd — Bahasa Inggris\n11. Fakhrur Rozi Siregar, S.Pd — Matematika\n12. Eva P. Manurung, S.Pak — Agama Protestan\n13. Shinta Hastia Putri, S.Pd — MP\n14. Ardiansyah, S.T — MK, PKK\n15. Hafizah Ladyana Lubis, S.Pd — Bahasa Indonesia\n16. Salmon Sitanggang, S.Pd — Bahasa Inggris\n17. Indrawati Tumanggor, S.Ag, MA — Agama\n18. Annisah Husni Daulay, M.Kom / M.Pd — MK, PKK\n19. Sortika Tamba, S.Pd — PP\n20. Syukriyah, S.Pd — Bahasa Inggris\n21. Khairani, S.Pd.I — Agama\n22. Pirmando Gultom, M.Kom — MP\n23. Roy Hendro Siburian, S.Kom — PKK, MK"
+},
+  {
+    "id": 65,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara menghubungi wali kelas?",
+    "jawaban": "Silakan menghubungi wali kelas melalui saluran komunikasi yang telah disediakan oleh sekolah."
+  },
+  {
+    "id": 66,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara menghubungi tata usaha?",
+    "jawaban": "Anda dapat menghubungi bagian tata usaha melalui kontak resmi sekolah untuk mendapatkan pelayanan administrasi."
+  },
+  {
+    "id": 67,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara meminta surat keterangan aktif sekolah?",
+    "jawaban": "Siswa dapat mengajukan permohonan kepada bagian tata usaha dengan membawa atau melengkapi persyaratan administrasi yang dibutuhkan."
+  },
+  {
+    "id": 68,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara mengurus surat pindah sekolah?",
+    "jawaban": "Silakan datang ke bagian tata usaha atau bagian kesiswaan untuk memperoleh informasi prosedur dan persyaratan pindah sekolah."
+  },
+  {
+    "id": 69,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara legalisasi ijazah?",
+    "jawaban": "Alumni dapat mengajukan permohonan legalisasi ijazah kepada bagian tata usaha dengan membawa dokumen yang diperlukan."
+  },
+  {
+    "id": 70,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara mendapatkan ijazah?",
+    "jawaban": "Pengambilan ijazah dilakukan sesuai prosedur dan jadwal yang ditetapkan sekolah. Silakan menghubungi bagian tata usaha."
+  },
+  {
+    "id": 71,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara melaporkan siswa yang sakit?",
+    "jawaban": "Siswa atau orang tua dapat menyampaikan informasi kepada wali kelas atau pihak sekolah sesuai prosedur izin yang berlaku."
+  },
+  {
+    "id": 72,
+    "kategori": "Guru, administrasi, dan pelayanan sekolah",
+    "pertanyaan": "Bagaimana cara menyampaikan keluhan?",
+    "jawaban": "Anda dapat menyampaikan keluhan secara sopan melalui pihak sekolah, wali kelas, bagian kesiswaan, atau kontak resmi sekolah."
+  },
+  {
+    "id": 73,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Apakah siswa wajib memakai seragam?",
+    "jawaban": "Ya, siswa wajib mengenakan seragam sesuai ketentuan dan jadwal yang ditetapkan sekolah."
+  },
+  {
+    "id": 74,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Apakah siswa harus datang tepat waktu?",
+    "jawaban": "Ya, seluruh siswa diharapkan datang tepat waktu agar kegiatan pembelajaran berjalan dengan tertib."
+  },
+  {
+    "id": 75,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Bagaimana aturan rambut siswa?",
+    "jawaban": "Siswa wajib menjaga kerapian dan penampilan sesuai tata tertib yang berlaku di sekolah."
+  },
+  {
+    "id": 76,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Apakah siswa boleh membawa HP?",
+    "jawaban": "Penggunaan HP mengikuti aturan sekolah. Siswa diharapkan menggunakan perangkat tersebut secara bijak dan hanya sesuai izin atau kebutuhan pembelajaran."
+  },
+  {
+    "id": 77,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Apa yang harus dilakukan jika terlambat?",
+    "jawaban": "Siswa yang terlambat harus mengikuti prosedur penanganan keterlambatan sesuai tata tertib sekolah."
+  },
+  {
+    "id": 78,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Bagaimana cara meminta izin tidak masuk sekolah?",
+    "jawaban": "Siswa atau orang tua perlu menyampaikan surat izin atau pemberitahuan kepada wali kelas sesuai prosedur sekolah."
+  },
+  {
+    "id": 79,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Apa yang harus dilakukan jika kehilangan barang?",
+    "jawaban": "Segera laporkan kehilangan kepada guru piket, wali kelas, atau bagian kesiswaan agar dapat ditindaklanjuti."
+  },
+  {
+    "id": 80,
+    "kategori": "Tata tertib dan kehidupan siswa",
+    "pertanyaan": "Bagaimana cara menjaga kebersihan sekolah?",
+    "jawaban": "Buang sampah pada tempatnya, menjaga kebersihan kelas, merawat fasilitas, dan mengikuti kegiatan kebersihan lingkungan sekolah."
+  },
+  {
+    "id": 81,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah SMK Negeri 9 Medan menerima siswa pindahan?",
+    "jawaban": "Penerimaan siswa pindahan mengikuti ketentuan, ketersediaan kuota, dan kesesuaian program keahlian. Silakan menghubungi bagian kesiswaan."
+  },
+  {
+    "id": 82,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah orang tua boleh berkunjung ke sekolah?",
+    "jawaban": "Orang tua dapat berkunjung untuk keperluan tertentu dengan mengikuti prosedur penerimaan tamu yang berlaku di sekolah."
+  },
+  {
+    "id": 83,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah sekolah memiliki media sosial?",
+    "jawaban": "Informasi media sosial resmi dapat ditemukan melalui website atau halaman kontak sekolah. Pastikan mengikuti akun resmi sekolah."
+  },
+  {
+    "id": 84,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah sekolah menerima kunjungan dari sekolah lain?",
+    "jawaban": "Kunjungan dapat diajukan melalui pihak sekolah dan perlu mendapatkan persetujuan serta mengikuti prosedur yang berlaku."
+  },
+  {
+    "id": 85,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Bagaimana cara mengetahui pengumuman sekolah?",
+    "jawaban": "Pantau informasi melalui website, media sosial resmi, papan pengumuman, atau pemberitahuan dari pihak sekolah."
+  },
+  {
+    "id": 86,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah sekolah memiliki kegiatan alumni?",
+    "jawaban": "Informasi kegiatan alumni dapat ditanyakan kepada pihak sekolah atau komunitas alumni jika tersedia."
+  },
+  {
+    "id": 87,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Bagaimana cara memberikan kritik dan saran?",
+    "jawaban": "Anda dapat memberikan kritik dan saran secara sopan melalui kontak resmi sekolah sebagai bentuk kontribusi untuk meningkatkan kualitas pelayanan pendidikan."
+  },
+  {
+    "id": 88,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah sekolah menyediakan informasi prestasi siswa?",
+    "jawaban": "Informasi prestasi siswa dapat diperoleh melalui halaman berita, prestasi, atau publikasi resmi sekolah."
+  },
+  {
+    "id": 89,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Apakah sekolah menyediakan informasi lowongan kerja?",
+    "jawaban": "Informasi lowongan kerja dapat ditanyakan melalui pihak sekolah atau layanan hubungan industri apabila tersedia."
+  },
+  {
+    "id": 90,
+    "kategori": "Pertanyaan umum lainnya",
+    "pertanyaan": "Bagaimana cara mengetahui informasi terbaru sekolah?",
+    "jawaban": "Silakan mengunjungi website dan media sosial resmi SMK Negeri 9 Medan untuk mendapatkan informasi terbaru."
+  },
+  {
+    "id": 91,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Halo",
+    "jawaban": "Halo! Selamat datang di layanan chatbot SMK Negeri 9 Medan. Ada yang bisa saya bantu?"
+  },
+  {
+    "id": 92,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Selamat pagi",
+    "jawaban": "Selamat pagi! Selamat datang di SMK Negeri 9 Medan. Silakan tanyakan informasi yang ingin Anda ketahui."
+  },
+  {
+    "id": 93,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Terima kasih",
+    "jawaban": "Sama-sama! Senang bisa membantu Anda. Jangan ragu untuk bertanya kembali jika membutuhkan informasi lainnya."
+  },
+  {
+    "id": 94,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Siapa gurunya?",
+    "jawaban": "Berikut daftar nama guru SMK Negeri 9 Medan:\n\n1. Sulastri Silalahi, S.Pd — Bahasa Indonesia\n2. Annisah Nur Panggabean, S.Pd — Bahasa Inggris\n3. Mudriqah Fadhilah Siregar, S.Pd — Matematika\n4. Mukhyaruddin Hasibuan, S.Pd.I — Agama Islam\n5. Ursula Eka Oktoria Purba, S.Ag — Agama Katholik\n6. Herbet Helvi Roberto Bakkara, S.Kom — MP, PKK\n7. Novelman Manurung, S.T — MK\n8. M. Sofa Ananda, S.Sos, M.Pd — PP\n9. Kharisma Dani, S.Pd — Bahasa Indonesia\n10. Defi Maliani S. Hrp, S.Pd — Bahasa Inggris\n11. Fakhrur Rozi Siregar, S.Pd — Matematika\n12. Eva P. Manurung, S.Pak — Agama Protestan\n13. Shinta Hastia Putri, S.Pd — MP\n14. Ardiansyah, S.T — MK, PKK\n15. Hafizah Ladyana Lubis, S.Pd — Bahasa Indonesia\n16. Salmon Sitanggang, S.Pd — Bahasa Inggris\n17. Indrawati Tumanggor, S.Ag, MA — Agama\n18. Annisah Husni Daulay, M.Kom / M.Pd — MK, PKK\n19. Sortika Tamba, S.Pd — PP\n20. Syukriyah, S.Pd — Bahasa Inggris\n21. Khairani, S.Pd.I — Agama\n22. Pirmando Gultom, M.Kom — MP\n23. Roy Hendro Siburian, S.Kom — PKK, MK"
+  },
+  {
+    "id": 95,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Apa yang bisa kamu bantu?",
+    "jawaban": "Saya dapat membantu memberikan informasi mengenai profil sekolah, jurusan, pendaftaran, fasilitas, kegiatan siswa, PKL, dan informasi lainnya."
+  },
+  {
+    "id": 96,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Saya ingin bertanya",
+    "jawaban": "Tentu! Silakan tuliskan pertanyaan Anda. Saya akan berusaha membantu memberikan informasi yang dibutuhkan."
+  },
+  {
+    "id": 97,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Saya tidak mengerti",
+    "jawaban": "Tidak masalah! Silakan tuliskan kembali pertanyaan Anda dengan lebih jelas agar saya dapat membantu."
+  },
+  {
+    "id": 98,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Informasi yang saya cari tidak ada",
+    "jawaban": "Mohon maaf, saya belum dapat menjawab pertanyaan anda."
+  },
+  {
+    "id": 99,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Apakah kamu manusia?",
+    "jawaban": "Saya bukan manusia, melainkan asisten virtual yang dirancang untuk membantu menjawab pertanyaan seputar SMK Negeri 9 Medan."
+  },
+  {
+    "id": 100,
+    "kategori": "Pertanyaan khusus untuk chatbot",
+    "pertanyaan": "Sampai jumpa",
+    "jawaban": "Terima kasih telah menggunakan layanan chatbot SMK Negeri 9 Medan. Sampai jumpa dan semoga harimu menyenangkan!"
+  }
+]
